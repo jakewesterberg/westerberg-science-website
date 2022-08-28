@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jacob Alan Westerberg, Ph.D.
+title: Jacob A. Westerberg
 
 # Is this the primary user of the site?
 superuser: true
@@ -60,7 +60,7 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'jake@westerberg.science'
+email: 'jacob.a.westerberg@vanderbilt.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
