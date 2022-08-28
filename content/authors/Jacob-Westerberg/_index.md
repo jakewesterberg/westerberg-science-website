@@ -26,7 +26,7 @@ interests:
   - Prediction
 
 # Education to show in About widget
-education:
+education/positions:
   courses:
     - course: Ph.D. Psychology
       institution: Vanderbilt University
