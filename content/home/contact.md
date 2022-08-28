@@ -6,7 +6,7 @@ widget: contact
 headless: true
 
 # Order that this section appears on the page.
-weight: 130
+weight: 100
 
 title: Contact
 subtitle:
@@ -22,10 +22,10 @@ content:
       id:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      captcha: true
 
   # Contact details (edit or remove options as required)
-  email: jakewesterberg@gmail.com
+  email: jacob.a.westerberg@vanderbilt.edu
   address:
     street: 111 21st Avenue South
     city: Nashville
@@ -33,9 +33,6 @@ content:
     postcode: '37240'
     country: United States
     country_code: US
-  coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
 
 design:
   columns: '2'
