@@ -35,7 +35,6 @@ abstract: Event-related potentials (ERP) are among the most widely measured indi
 
 summary: Highlights (1) Cognitive EEG production was accurately modeled from empirically measured cortical activity in macaques. (2) V4 laminar activity can generate a well-known attention-related EEG signal. (3) Models demonstrate the importance of biophysical geometry in cognitive EEG production. (4) Biophysical and computational contributions are dissociable.
 
-
 tags: ["Attention", "Cortical Columns", "EEG Origins"]
 
 featured: true
