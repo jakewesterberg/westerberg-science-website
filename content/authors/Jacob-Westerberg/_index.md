@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jacob A. Westerberg
+title: Jacob A Westerberg
 
 # Is this the primary user of the site?
 superuser: true
@@ -26,19 +26,16 @@ interests:
   - Prediction
 
 # Education to show in About widget
-education/positions:
+education:
   courses:
-    - course: Ph.D. Psychology
+    - course: PhD Psychology
       institution: Vanderbilt University
-      year: 2022
-    - course: B.A. Cognitive Neuroscience
+      year: 2016-2022
+    - course: BA Cognitive Neuroscience
       institution: Saint Olaf College
-      year: 2016
+      year: 2012-2016
 
 # Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
   - icon: envelope
     icon_pack: fas
