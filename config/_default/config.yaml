@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Jacob Alan Westerberg, Ph.D. # Website name
+title: Jacob Alan Westerberg, PhD # Website name
 baseURL: 'https://westerberg.science/' # Website URL
 
 ############################
