@@ -22,7 +22,7 @@ author_notes:
   -
 
 date: '2022-01-22T00:00:00Z'
-doi: '10.7554/eLife.72139'
+doi: '10.7554/eLife.72138'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -41,10 +41,6 @@ summary: Highlights (1) Cognitive EEG production was accurately modeled from emp
 tags: ["Attention", "Cortical Columns", "EEG Origins"]
 
 featured: true
-
-#links:
-# - name: Custom Link
-# - url: http://example.org
 
 url_pdf: ''
 url_code: ''
