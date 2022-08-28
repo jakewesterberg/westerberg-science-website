@@ -40,7 +40,7 @@ featured: true
 # - name: Custom Link
 # - url: http://example.org
 
-url_pdf: ''
+url_pdf: '/WesterbergEtAl_2021_PNAS_Pop-out.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
