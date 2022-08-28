@@ -1,5 +1,5 @@
 ---
-title: 'Resolving the mesoscopic missing link: Biophysical modeling of EEG from cortical columns in primates'
+title: 'Resolving the mesoscopic missing link Biophysical modeling of EEG from cortical columns in primates'
 
 # Authors
 authors:
