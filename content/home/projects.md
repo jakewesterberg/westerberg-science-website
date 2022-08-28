@@ -27,10 +27,15 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
+    - name: EEG Origins
+      tag: EEG Origins
+    - name: Attention
+      tag: Attention
+    - name: Cortical Columns
+      tag: Cortical Columns
+    - name: Priming
+      tag: Priming
+
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
