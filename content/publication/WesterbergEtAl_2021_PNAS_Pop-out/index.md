@@ -36,9 +36,9 @@ tags: ['Attention']
 
 featured: true
 
-links:
- - name: Custom Link
- - url: http://example.org
+#links:
+# - name: Custom Link
+# - url: http://example.org
 
 url_pdf: ''
 url_code: ''
