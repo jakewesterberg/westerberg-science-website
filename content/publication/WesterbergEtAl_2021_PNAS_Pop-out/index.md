@@ -5,7 +5,7 @@ title: 'Pop-out search instigates beta-gated feature selectivity enhancement acr
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - JacobWesterberg
+  - Jacob-Westerberg
   - Elizabeth A. Sigworth
   - Jeffrey D. Schall
   - Alexander Maier
@@ -32,7 +32,7 @@ abstract: Visual search is a workhorse for investigating how attention inter- ac
 
 summary: Cerebral cortex is organized in topographical maps of cortical columns. These columns consist of mesoscopic neural circuits that preferentially respond to certain stimulus features like color. We show that attending a visual stimulus results in rhythmic gating of feature preferences along cortical columns. The strength of that rhythm directly impacts the behavioral outcome. These findings demonstrate that the dynamics of feature preferences in cortical columns underlie at least some of the rhythmicity that is associated with attention.
 
-tags: ['Attention']
+tags: ["Attention", "Cortical Columns"]
 
 featured: true
 
