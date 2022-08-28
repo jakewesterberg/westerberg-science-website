@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Positions
 subtitle:
 
 # Date format for experience
@@ -31,7 +31,7 @@ experience:
     date_end: ''
     description: |2-
         Responsibilities include:
-        
+
         * Analysing
         * Modelling
         * Deploying

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jacob A. Westerberg, Ph.D.
+title: Jacob Alan Westerberg, Ph.D.
 
 # Is this the primary user of the site?
 superuser: true
@@ -68,4 +68,4 @@ highlight_name: true
 
 Jacob Westerberg is a postdoctoral scholar in the Bastos Lab at Vanderbilt University's Department of Psychology. His research interests lie in systems neuroscience from sensation and perception to cognition and action.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}C.V.{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}C.V.{{< /staticref >}}
