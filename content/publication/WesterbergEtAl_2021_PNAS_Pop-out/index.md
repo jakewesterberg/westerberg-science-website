@@ -32,7 +32,7 @@ abstract: Visual search is a workhorse for investigating how attention inter- ac
 
 summary: Cerebral cortex is organized in topographical maps of cortical columns. These columns consist of mesoscopic neural circuits that preferentially respond to certain stimulus features like color. We show that attending a visual stimulus results in rhythmic gating of feature preferences along cortical columns. The strength of that rhythm directly impacts the behavioral outcome. These findings demonstrate that the dynamics of feature preferences in cortical columns underlie at least some of the rhythmicity that is associated with attention.
 
-tags: [Attention, Cortical Columns]
+tags: []
 
 featured: true
 
