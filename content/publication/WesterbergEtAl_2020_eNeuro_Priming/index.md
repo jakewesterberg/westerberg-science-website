@@ -33,7 +33,7 @@ abstract: Cognitive operations are widely studied by measuring electric fields t
 
 tags: ["Attention", "Cortical Columns", "EEG Origins"]
 
-featured: true
+featured: false
 
 #links:
 # - name: Custom Link

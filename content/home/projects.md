@@ -27,12 +27,14 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: EEG Origins
-      tag: EEG Origins
     - name: Attention
       tag: Attention
+    - name: Binocular Vision
+      tag: Binocular Vision
     - name: Cortical Columns
       tag: Cortical Columns
+    - name: EEG Origins
+      tag: EEG Origins
     - name: Priming
       tag: Priming
 

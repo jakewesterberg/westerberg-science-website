@@ -25,7 +25,6 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: in *Cerebral Cortex*
-publication_short: in *Cerebral Cortex*
 
 abstract: Attending to a visual stimulus increases its detectability, even if gaze is directed elsewhere. This covert attentional selection is known to enhance spiking across many brain areas, including the primary visual cortex (V1). Here we investigate the temporal dynamics of attention-related spiking changes in V1 of macaques performing a task that separates attentional selection from the onset of visual stimulation. We found that preceding attentional enhancement there was a sharp, transient decline in spiking following presentation of an attention-guiding cue. This disruption of V1 spiking was not observed in a task-naïve subject that passively observed the same stimulus sequence, suggesting that sensory activation is insufficient to cause suppression. Following this suppression, attended stimuli evoked more spiking than unattended stimuli, matching previous reports of attention-related activity in V1. Laminar analyses revealed a distinct pattern of activation in feedback-associated layers during both the cue-induced suppression and subsequent attentional enhancement. These findings suggest that top-down modulation of V1 spiking can be bidirectional and result in either suppression or enhancement of spiking responses.
 
